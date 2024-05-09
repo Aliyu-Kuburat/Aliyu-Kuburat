@@ -2,8 +2,8 @@
 
 ### ABOUT ME
 
-As an enthusiastic and results-driven **Business Intelligence Analyst** with three years of operational 
-analytics experience in Software industries, I am eager to contribute to a dynamic organization. 
+As an **enthusiastic and results-driven Data Analyst** with three years of operation and Business intelligence
+analytics experience in Software industries, I am eager to contribute to a dynamic and career driven organization. 
 With a proven track record of transforming raw data into valuable insights that drive strategic decision-making, 
 I excel in leading data literacy initiatives and empowering stakeholders with advanced analytical tools such as SQL,
 Excel, Power BI, and Tableau. I have coordinated the end-to-end management of product life cycles, overseeing procurement, 
