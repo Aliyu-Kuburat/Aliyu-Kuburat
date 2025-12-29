@@ -2,7 +2,7 @@
 
 ### ABOUT ME
 
-An enthusiastic and customer-focused Data Analyst with over 6 years of experience in Operations, 3 years of Business Intelligence analytics and a year of Machine Learning and predictive analytics within the software industry, I am eager to contribute to a dynamic organisation. I have a proven track record of transforming raw data into valuable insights that drive strategic decision-making. My skills in leading data literacy initiatives and empowering stakeholders with advanced analytical tools such as SQL, Excel, Power BI, and Tableau enable me to optimise business operations and processes through data-driven insights. I have successfully coordinated the end-to-end management of product life cycles and overseen procurement, leveraging advanced analytical methods.
+An enthusiastic and customer-focused Data Analyst with over 6 years of experience in Operations, 3 years of Business Intelligence analytics and a year of Machine Learning and predictive analytics within the software and logistics industry, I am eager to contribute to a dynamic organisation. I have a proven track record of transforming raw data into valuable insights that drive strategic decision-making. My skills in leading data literacy initiatives and empowering stakeholders with advanced analytical tools such as SQL, Excel, Power BI, and Tableau enable me to optimise business operations and processes through data-driven insights. I have successfully coordinated the end-to-end management of product life cycles and overseen procurement, leveraging advanced analytical methods.
 
 ## SKILLS
 
