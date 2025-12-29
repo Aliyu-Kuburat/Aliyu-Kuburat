@@ -47,6 +47,15 @@ VS Code
 Jupyter Notebook
 <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/a3ddf513-b103-4fca-ba8c-d37c5a761510" />
 
+# Core Competencies:
+- Advanced Data Wrangling & ETL Engineering
+- Strategic Data Storytelling & BI Architecture
+- Statistical Pattern Recognition & Diagnostic Analysis
+- Relational & Dimensional Data Modelling
+- Enterprise BI Solutions & Strategy
+- Performance Measurement & Metric Frameworks
+- Technical Communication & Knowledge Management
+
 ## PROJECTS 
 
 https://bit.ly/Aliyu_Kuburat. 
