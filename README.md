@@ -7,11 +7,9 @@ An enthusiastic and customer-focused Data Analyst with over 6 years of experienc
 ## SKILLS
 
 ### Programming Languages
+Python 
 <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/595a8168-7ca8-47bb-b2b1-fd40c6bd7418" />
 <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/24fc0b35-9292-4b2a-a322-6988de4753f8" />
-
-Python 
-SQL
 
 ### Querying and Visualization Tools: 
 
