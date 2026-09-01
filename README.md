@@ -2,10 +2,29 @@
 
 ### ABOUT ME
 
-An enthusiastic and customer-focused Data Analyst with over 6 years of experience in Operations, 3 years of Business Intelligence analytics and a year of Machine Learning and predictive analytics within the software and logistics industry, I am eager to contribute to a dynamic organisation. I have a proven track record of transforming raw data into valuable insights that drive strategic decision-making. My skills in leading data literacy initiatives and empowering stakeholders with advanced analytical tools such as SQL, Excel, Power BI, and Tableau enable me to optimise business operations and processes through data-driven insights. I have successfully coordinated the end-to-end management of product life cycles and overseen procurement, leveraging advanced analytical methods.
+I’m a Senior Data Analyst specialising in Business Intelligence and Operations Analytics, with 6+ years of experience turning complex operational data into insights that improve business performance.
+
+My work sits at the intersection of data, operations and decision-making. I use SQL, Power BI, Excel, and data modelling to transform large, complex datasets into reliable reporting systems, actionable insights, and scalable analytical solutions. 
+
+My experience spans logistics, operations, reporting automation, performance analytics, reconciliation and cost optimisation.
+
+I don't just build dashboards. I work with stakeholders to understand the business problem, define the right KPIs, validate the data and translate analysis into decisions.
+
+Core areas:
+ • Business Intelligence
+ • Operations Analytics
+ • Power BI & DAX
+ • SQL & Data Analysis
+ • Data Modelling
+ • Python
+ • Machine Learning
+ • KPI & Performance Analytics
+ • Reporting Automation
+ • Data Quality & Reconciliation
+
+I’m particularly interested in solving complex business problems where better data can lead to better operational and financial outcomes.
 
 ## SKILLS
-
 ### Programming Languages
 Python 
 <img width="80" height="80" alt="image" src="https://github.com/user-attachments/assets/595a8168-7ca8-47bb-b2b1-fd40c6bd7418" />
@@ -58,7 +77,7 @@ Jupyter Notebook
 
 ## PROJECTS 
 
-https://bit.ly/Aliyu_Kuburat. 
+aliyukuurat.com
 
 Discover how I applied analytical techniques to solve real-world challenges across various industries. 
 
