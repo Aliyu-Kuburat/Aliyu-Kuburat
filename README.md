@@ -77,7 +77,7 @@ Jupyter Notebook
 
 ## PROJECTS 
 
-aliyukuburat.com
+https://aliyukuburat.com/
 
 Discover how I applied analytical techniques to solve real-world challenges across various industries. 
 
